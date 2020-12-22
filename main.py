@@ -170,15 +170,4 @@ while True:
     pygame.display.update()
     clock.tick(120)
 
-    # if score == 5 and level == 1:
-    #     level += 1
-    #     gravity += 0.1
-    # if score == 10 and level == 2:
-    #     level += 1
-    #     gravity += 0.1
-    # if score == 15 and level == 3:
-    #     level += 1
-    #     gravity += 0.1
-    # if score == 20 and level == 4:
-    #     level += 1
-    #     gravity += 0.1
+
